@@ -1,0 +1,10 @@
+.todocard{
+    display:flex;
+    flex-direction:row;
+
+}
+.btns{
+    display:flex;
+    align-items:center;
+    margin: 20px;
+}
